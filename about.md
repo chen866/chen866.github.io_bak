@@ -9,8 +9,8 @@ key: page-about
 lang: zh-Hans
 ---
 
-<h2>性别：男</h2>
-<h2>生日：1997</h2>
-<h2>MBTI：INTP</h2>
-<h2>星座：双子座</h2>
-<h2>I want just be better than yesterday. :+1:</h2>
+### 性别：男
+### 生日：1997
+### MBTI：INTP
+### 星座：双子座
+## I want just be better than yesterday. :+1:
