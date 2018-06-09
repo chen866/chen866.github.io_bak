@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 由Cytus引发的惨案 #1
+title: 由Cytus引发的惨案
 tags:
   - python
 lang: zh-Hans
 ---
 
-### Google Machine Learning Recipes #1
+Google Machine Learning Recipes #1
 
 <!--more-->
 cytus是我大一时候玩的一款音乐游戏, 据说今年就要出第二部了。尽管如此，它还是在不断更新，在安卓8上很多版本都会闪退，于是就安装了play版的。。。。
@@ -84,5 +84,3 @@ print(clf.predict([[150,0]]))
 
 第二节会讲到
 `How is the tree created?`
-
-世界 晚安
