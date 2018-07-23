@@ -17,4 +17,4 @@ lang: zh-Hans
 
 #### 星座：双子座
 
-## I want just be better than yesterday. :+1:
+## Just be better than yesterday. :+1:
