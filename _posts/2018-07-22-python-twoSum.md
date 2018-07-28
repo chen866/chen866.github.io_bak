@@ -2,7 +2,8 @@
 layout: post
 title: 两数之和
 tags:
-  - python,leetcode
+  - python
+  - leetcode
 lang: zh-Hans
 ---
 
