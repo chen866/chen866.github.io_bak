@@ -55,7 +55,7 @@ author:
 # mathjax: true
 
 ## Paginate ##
-paginate: 10
+paginate: 20
 paginate_path: /blog/page:num
 
 ## Post excerpts ##
@@ -65,6 +65,7 @@ excerpt_type: html # text | html
 ## Build ##
 markdown: kramdown
 highlighter: rouge
+highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 permalink: date
 
 exclude:
