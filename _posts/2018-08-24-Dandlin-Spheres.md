@@ -66,9 +66,10 @@ lang: zh-Hans
 5. 使用同样的方法可以证明斜切一个圆柱也会得到椭圆。  
 
 6. 由斜切圆柱可以证明拉伸圆形的椭圆定义和之前的两个定义等价。*（！！！）*  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-08-24-07.png)
 
-## 从何而来
+## 从何而来  
+
+![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-08-24-07.png)
 
 对于如何引入两个球体的解释：
 
