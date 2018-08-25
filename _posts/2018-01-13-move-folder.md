@@ -6,7 +6,7 @@ tags:
 lang: zh-Hans
 ---
 
-以及 移动User文件夹到其他位置
+日常重装电脑系统 以及 移动用户主文件夹到其他位置
 
 <!--more-->
 
@@ -18,8 +18,7 @@ lang: zh-Hans
 > 我下载的系统镜像是从前文的贴吧链接里面下载的种子，使用迅雷或者百度云打开种子下载64位的ISO系统镜像文件  
 启动方式和硬盘分区格式对应为：UEFI引导模式对应GPT硬盘分区格式、Legacy引导模式对应MBR硬盘分区格式，具体自行->[系统引导模式-百度](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F)，可以通过`DiskGenius`、傲梅分区等分区软件进行无损转换
 
-2. 把ISO系统镜像用`软碟通`（UltraISO.exe）打开，插入U盘，然后选择“工具”->“写入硬盘映像”，先点击“格式化”，然后点击“写入”，等待软件将系统镜像刻录到`U盘`上，并为U盘添加启动项
-
+2. 把ISO系统镜像用`软碟通`（UltraISO.exe）打开，插入U盘，然后选择“工具”->“写入硬盘映像”，先点击“格式化”，然后点击“写入”，等待软件将系统镜像刻录到`U盘`上，并为U盘添加启动项  
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-08.png)
 
 3. 重启电脑，进入bios，确认电脑的启动方式为`UEFI启动`，然后退出，从U盘启动进入系统安装引导
@@ -63,8 +62,7 @@ lang: zh-Hans
 
 ### 2. 复制文件夹
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-01.png)
-
+![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-01.png)  
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-02.png)
 
 ### 3. 重命名原用户主文件夹
@@ -85,6 +83,5 @@ lang: zh-Hans
 
 ### 7. 删除旧用户主文件夹
 
-重启了下发现没问题就把重命名后的文件夹删除了，完美收工
-
+重启了下发现没问题就把重命名后的文件夹删除了，完美收工  
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-07.png)
