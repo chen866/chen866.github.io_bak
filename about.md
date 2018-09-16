@@ -19,4 +19,4 @@ lang: zh-Hans
 
 #### 星座：双子座
 
-## Just be better than yesterday. :+1:
+## Become a better version of yourself. :+1:
