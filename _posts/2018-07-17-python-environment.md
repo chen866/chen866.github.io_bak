@@ -10,7 +10,7 @@ lang: zh-Hans
 
 <!--more-->
 
-首先，从[`python官网`](www.python.org)下载自己平台适用的安装包并安装，推荐使用迅雷下载，浏览器下载较慢
+首先，从[`python官网`](https://www.python.org)下载自己平台适用的安装包并安装，推荐使用迅雷下载，浏览器下载较慢
 
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-07-17-01.png)
 
