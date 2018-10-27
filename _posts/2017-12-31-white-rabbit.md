@@ -2,7 +2,7 @@
 layout: post
 title: 小白兔的童话
 tags:
-  - others
+  - other
 lang: zh-Hans
 ---
 

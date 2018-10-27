@@ -2,7 +2,7 @@
 layout: post
 title: Learning a Foreign Language 
 tags:
-  - english
+  - other
 lang: zh-Hans
 ---
 

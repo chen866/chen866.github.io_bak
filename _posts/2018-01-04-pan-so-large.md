@@ -2,7 +2,7 @@
 layout: post
 title: 网盘为什么这么大?
 tags:
-  - others
+  - other
 lang: zh-Hans
 ---
 

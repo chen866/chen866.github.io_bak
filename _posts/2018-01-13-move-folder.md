@@ -2,7 +2,7 @@
 layout: post
 title: 日常重装电脑系统
 tags:
-  - others
+  - 搞机
 lang: zh-Hans
 ---
 

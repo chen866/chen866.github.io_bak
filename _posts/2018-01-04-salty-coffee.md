@@ -2,7 +2,7 @@
 layout: post
 title: Salty Coffee 咸咖啡
 tags:
-  - english
+  - other
 lang: zh-Hans
 ---
 

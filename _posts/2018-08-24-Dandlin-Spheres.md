@@ -2,7 +2,6 @@
 layout: post
 title: 丹迪林双球
 tags:
-  - 数学
   - 3Blue1Brown
 lang: zh-Hans
 ---

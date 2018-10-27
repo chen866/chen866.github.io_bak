@@ -2,7 +2,7 @@
 layout: post
 title: hello,github pages
 tags:
-  - others
+  - code
 lang: zh-Hans
 ---
 

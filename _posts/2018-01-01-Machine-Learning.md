@@ -1,29 +1,18 @@
 ---
 layout: post
-title: 由Cytus引发的惨案
+title: Google Machine Learning Recipes
 tags:
   - python
 lang: zh-Hans
 ---
 
-Google Machine Learning Recipes #1
-
 <!--more-->
-cytus是我大一时候玩的一款音乐游戏, 据说今年就要出第二部了。尽管如此，它还是在不断更新，在安卓8上很多版本都会闪退，于是就安装了play版的。。。。
 
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-01-01.png)
 
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-01-02.png)
 
 ![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-01-03.png)
-
-好想玩没有30s等待的Cytus啊，可是登不上play商店就没办法免内购
-
-于是刷机android 8.1，重新安装gapps
-
-仍不能登录google play商店
-
-上网继续查找解决方法
 
 无意中发现一篇16年9月的文章：
 Google有三个.cn网站可以访问了，但它们只面向开发者
