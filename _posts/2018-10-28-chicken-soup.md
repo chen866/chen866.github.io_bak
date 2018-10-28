@@ -14,7 +14,7 @@ lang: zh-Hans
 
 ## api准备
 
-首先，作者在文章下面贴上了完整代码，完整代码中的Server酱的推送地址和高德api url中的key是需要我们自己在[Server酱](http://sc.ftqq.com/3.version)和[高德开放平台](https://lbs.amap.com/dev /)上面自行申请替换，都是免费的配额足够自用了。  
+首先，作者在文章下面贴上了完整代码，完整代码中的Server酱的推送地址和高德api url中的key是需要我们自己在[Server酱](http://sc.ftqq.com/3.version)和[高德开放平台](https://lbs.amap.com/dev/)上面自行申请替换，都是免费的配额足够自用了。  
 高德查询天气api还需要城市编码，可以通过高德开放平台上面发布的城市编码表查询所需要查询天气的城市编码。
 
 ## 定时任务框架APScheduler
@@ -58,7 +58,7 @@ scheduler = BlockingScheduler(timezone=tz)
 ## 总结
 
 总的来说，还是挺好玩的一个东西；  
-美中不足的是因为推送时候使用的是Markdown天气只能把地址位置固定，不能根据用户位置进行调整，有待优化；
+美中不足的是因为推送时候使用的是Markdown天气只能把地址位置固定，不能根据用户位置进行调整，有待优化；  
 微信Server酱推送以后消息只能在服务器端保存3天，意思是3天前的消息都不能查看了，有待优化。
 
 ## 具体代码
