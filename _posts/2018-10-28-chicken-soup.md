@@ -41,7 +41,9 @@ scheduler = BlockingScheduler(timezone=tz)
 
 嗯，完美运行，又涨姿势了
 
-`nohup`，后台运行进程，并输出日志到nohup.out文件中：  
+## 部署
+
+`nohup`命令，后台运行进程，并输出日志到nohup.out文件中：  
 ```shell
 nohup python3 -u heartsoup.py >> nohup.out 2>&1 &
 ```
