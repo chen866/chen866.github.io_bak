@@ -41,6 +41,21 @@ scheduler = BlockingScheduler(timezone=tz)
 
 嗯，完美运行，又涨姿势了
 
+`nohup`，后台运行进程，并输出日志到nohup.out文件中：  
+```shell
+nohup python3 -u heartsoup.py >> nohup.out 2>&1 &
+```
+
+查看当前后台运行进程：  
+```shell
+ps -aux|grep heartsoup.py| grep -v grep | awk '{print $2}'
+```
+
+根据PID关闭相应进程：  
+```shell
+kill -9 [PID]
+```
+
 ## 推送
 
 推送使用的是Server酱的微信群组推送，和单独推送使用起来大差不差；  
