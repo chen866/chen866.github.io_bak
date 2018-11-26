@@ -3,7 +3,6 @@ layout: post
 title: 两数之和
 tags:
   - python
-  - leetcode
 lang: zh-Hans
 ---
 
@@ -76,7 +75,8 @@ class Solution:
 一个简单的实现使用了两次迭代。在第一次迭代中，我们将每个元素的值和它的索引添加到表中。然后，在第二次迭代中，我们将检查每个元素所对应的目标元素（target - nums[i]target−nums[i]）是否存在于表中。注意，该目标元素不能是 nums[i]nums[i] 本身！ 
 
 ## 方法三：一遍哈希表  
-> 事实证明，我们可以一次完成。在进行迭代并将元素插入到表中的同时，我们还会回过头来检查表中是否已经存在当前元素所对应的目标元素。如果它存在，那我们已经找到了对应解，并立即将其返回。
+> 事实证明，我们可以一次完成。在进行迭代并将元素插入到表中的同时，我们还会回过头来检查表中是否已经存在当前元素所对应的目标元素。如果它存在，那我们已经找到了对应解，并立即将其返回。  
+> 还是两层遍历，只不过使用字典数据结构完成了内层循环的简单检索操作
 
 python实现：  
 ```python
@@ -95,4 +95,16 @@ class Solution:
                 dict1[nums[i]]=i
 ```
 
-> 路还很长，我还年轻，真好
+## 关于时间复杂度
+
+The ideal sorting algorithm would have the following properties:  
+
+- Stable: Equal keys aren’t reordered.
+- Operates in place, requiring O(1) extra space.
+- Worst-case O(n·lg(n)) key comparisons.
+- Worst-case O(n) swaps.
+- Adaptive: Speeds up to O(n) when data is nearly sorted or when there are few unique keys.
+
+There is no algorithm that has all of these properties, and so the choice of sorting algorithm depends on the application.
+
+> [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)

@@ -2,7 +2,7 @@
 layout: post
 title: 丹迪林双球
 tags:
-  - 3Blue1Brown
+  - other
 lang: zh-Hans
 ---
 
