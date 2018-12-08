@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]其实，中国的开发者们从来没有开心过
+title: 【转】其实，中国的开发者们从来没有开心过
 tags:
   - code
 lang: zh-Hans
