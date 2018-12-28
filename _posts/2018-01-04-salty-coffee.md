@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Salty Coffee 咸咖啡
 tags:
   - other

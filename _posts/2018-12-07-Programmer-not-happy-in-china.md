@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【转】其实，中国的开发者们从来没有开心过
 tags:
   - code

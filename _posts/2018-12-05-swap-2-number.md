@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 不用中间变量交换两个数字变量
 tags:
   - code

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 【转】网盘为什么这么大?
 tags:
   - other

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 每天推送鸡汤
 tags:
   - python

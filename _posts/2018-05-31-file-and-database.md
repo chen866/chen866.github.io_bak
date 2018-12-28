@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 文件存在数据库和硬盘里那个快？
 tags:
   - C#

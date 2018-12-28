@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: hello,github pages
 tags:
   - code

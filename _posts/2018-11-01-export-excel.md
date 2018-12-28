@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: C#导出Excel
 tags:
   - C#

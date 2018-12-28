@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 基于 html5 canvas 绘制的网页线条特效
 tags:
   - code

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Python运行环境搭建
 tags:
   - python

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 小白兔的童话
 tags:
   - other

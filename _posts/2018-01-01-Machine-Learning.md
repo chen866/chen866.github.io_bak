@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Google Machine Learning Recipes
 tags:
   - python

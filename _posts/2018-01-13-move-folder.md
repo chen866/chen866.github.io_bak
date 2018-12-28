@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 日常重装电脑系统
 tags:
   - 搞机

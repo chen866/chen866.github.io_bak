@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: 每个程序员都应该了解的内存知识
 tags:
   - code
