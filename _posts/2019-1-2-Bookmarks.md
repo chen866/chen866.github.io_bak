@@ -2,8 +2,8 @@
 layout: article
 title: 书签2019-1-2
 tags:
-  \- code
-  \- bookmarks
+  - code
+  - bookmarks
 lang: zh-Hans
 ---
 基本上都是编程资源相关的
