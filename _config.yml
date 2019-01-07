@@ -123,7 +123,7 @@ comments:
   gitalk:
     clientID    : 'd88b755189a8abe665c6' # GitHub Application Client ID
     clientSecret: 'c0a2ddfa745c1a30d4e8609be13d6214ebeb3845' # GitHub Application Client Secret
-    repository  : 'discussvvv' # GitHub repo
+    repository  : 'chen866.github.io' # GitHub repo
     owner       : 'chen866' # GitHub repo owner
     admin : ['chen866'] # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
     #id : 'chen866'  # - your GitHub Id
