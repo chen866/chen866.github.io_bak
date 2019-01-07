@@ -27,7 +27,6 @@
 				repo: '{{ site.comments.gitalk.repository }}',
 				owner: '{{ site.comments.gitalk.owner }}',
 				admin: [{{ _admin }}],
-				redirect_uri:'{{ page.url }}',
 				id: hex_md5('{{ page.url }}')
 			});
 			gitalk.render('js-gitalk-container');
