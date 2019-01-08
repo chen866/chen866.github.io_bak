@@ -3,18 +3,16 @@ layout: article
 title: 书签2019-1-2
 tags:
   - code
-  - bookmarks
-lang: zh-Hans
 ---
 
 <!--more-->
 
 这两天一直在想写个文章总结下这一年，可是还是吐不出来什么东西。一年来，书签导出文件从二十多K涨到了两百多K，基本上都是编程资源相关的，资源攒了一堆，然而。。。，一年时间凑出来了二十几篇博客，好像就没什么了，还是要继续努力鸭
 
-**Bookmarks**
 ---
+**Bookmarks**
 
-### 翻译
+## 翻译
 
 [Google 翻译](https://translate.google.cn/?source=gtx#zh-CN/en/)
 
@@ -24,7 +22,7 @@ lang: zh-Hans
 
 [百度翻译](http://fanyi.baidu.com/translate?aldtype=16047&query=%0D%0A&keyfrom=baidu&smartresult=dict&lang=auto2en#auto/en/)
 
-### 前端
+## 前端
 
 [视觉中国设计师社区](http://www.shijue.me/)
 
@@ -50,9 +48,9 @@ lang: zh-Hans
 
 [Accordion \- UIkit](https://getuikit.com/docs/accordion)
 
-### 学习
+## 学习
 
-#### 优达学城
+### 优达学城
 
 [人工智能入门 \| Udacity](https://cn.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
@@ -128,7 +126,7 @@ lang: zh-Hans
 
 [如何使用本书 \- 动手学深度学习 文档](http://zh.gluon.ai/chapter_introduction/how-to-use.html)
 
-### 教程
+## 教程
 
 [oeasy，会玩才会学。](http://oeasy.org/)
 
@@ -182,9 +180,9 @@ lang: zh-Hans
 
 [利用Cloudflare网关搭建访问IPFS网站，全新的神奇体验！\_IPFS网关](http://www.sohu.com/a/256922079_100217344)
 
-### 资源
+## 资源
 
-#### 杂项
+### 杂项
 
 [Greasy Fork \- 安全、有用的用户脚本大全](https://greasyfork.org/zh-CN)
 
@@ -206,7 +204,7 @@ lang: zh-Hans
 
 [Kingdoms of 2048 \| GAMEE](https://www.gameeapp.com/game-bot/kingdomsof2048-1a915eae5f2e3e614dd9b9e2400b5df7882acf50#tgShareScoreUrl=tg%3A%2F%2Fshare_game_score%3Fhash%3D7RQFQ_-HtWu9A_6wUcoRGEkPEbivRZjcqeWHLuju_wo)
 
-#### 注册码
+### 注册码
 
 [Vysor Pro巧妙破解 \- 简书](https://www.jianshu.com/p/66608ffebc31)
 
@@ -272,7 +270,7 @@ lang: zh-Hans
 
 [itgoyo/TelegramGroup: Telegram群合集，有需要请自行查找，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests](https://github.com/itgoyo/TelegramGroup)
 
-### 其他
+## 其他
 
 [leangoo账户设置](https://www.leangoo.com/kanban/profile/go)
 
@@ -338,9 +336,9 @@ lang: zh-Hans
 
 [LineageOS Downloads](https://download.lineageos.org/)
 
-### Android
+## Android
 
-#### 组件
+### 组件
 
 [Android WIFI Debug AndroidStudio／Eclipse 无需 Root 无线调试 \- CSDN博客](https://blog.csdn.net/ElonLink/article/details/52058884)
 
@@ -372,7 +370,7 @@ lang: zh-Hans
 
 [RecyclerView使用完全指南，是时候体验新控件了（一） \- 简书](https://www.jianshu.com/p/4fc6164e4709)
 
-#### 学习
+### 学习
 
 [Oi \- 收藏夹 \- 知乎](https://www.zhihu.com/collection/66263795)
 
@@ -424,7 +422,7 @@ lang: zh-Hans
 
 [ionic 教程 \| 菜鸟教程](http://www.runoob.com/ionic/ionic-tutorial.html)
 
-### C#
+## C#
 
 [WEB利用PDF实现打印和排版 \- CSDN博客](https://blog.csdn.net/jimil/article/details/22865091)
 
@@ -460,7 +458,7 @@ lang: zh-Hans
 
 [repeater绑定数组、哈希表、字典 ArrayList/HashTable,Dictionary为datasource-CMenu-51CTO博客](http://blog.51cto.com/huang1231932/630620)
 
-### linux
+## linux
 
 [Linux公社资源站\_Linux公社\-Linux系统门户网站](https://linux.linuxidc.com/index.php)
 
@@ -504,9 +502,9 @@ lang: zh-Hans
 
 [Archlinux 正确卸载 gnome 的方式？ \- V2EX](https://www.v2ex.com/t/360731)
 
-### python
+## python
 
-#### 爬虫
+### 爬虫
 
 [我的IP地址查询](http://www.whatismyip.com.tw/)
 
@@ -560,7 +558,7 @@ lang: zh-Hans
 
 [python3.6 使用newspaper库的Article包来快速抓取网页的文章或者新闻等正文 \- lijiaqi0612的博客 \- CSDN博客](https://blog.csdn.net/lijiaqi0612/article/details/81707128)
 
-#### 机器学习
+### 机器学习
 
 [人工智能及其应用（第3版） \| 高等教育出版社二维码资源服务平台 高等教育出版社在线电子书](http://2d.hep.cn/mobile/book/show/java535)
 
@@ -662,7 +660,7 @@ lang: zh-Hans
 
 [MXnet实战深度学习1\-\-MXnet的安装与第一个例子 \- 启功社区 \- CSDN博客](https://blog.csdn.net/a350203223/article/details/50260419)
 
-### 工具
+## 工具
 
 [MaHua 在线markdown编辑器](http://www.bejson.com/md/mahua/)
 
@@ -696,7 +694,7 @@ lang: zh-Hans
 
 [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)
 
-### github
+## github
 
 [fate0/proxylist: proxylist, generate by fate0/getproxy project in every 15 minute](https://github.com/fate0/proxylist)
 
