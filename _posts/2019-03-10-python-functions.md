@@ -44,7 +44,9 @@ help() 函数用于查看函数或模块用途的详细说明。
 ````python
 help([object])
 ````
+
 ### 数值相关
+
 #### abs
 abs() 函数返回数字的绝对值。
 ````python
@@ -255,7 +257,7 @@ issubclass(class, classinfo)
 ````
 [more](http://www.runoob.com/python/python-func-issubclass.html)
 
-### 文件
+### 文件相关
 #### open
 open() 方法用于打开一个文件，并返回文件对象，在对文件进行处理过程都需要使用到这个函数，如果该文件无法被打开，会抛出 OSError。注意：使用 open() 方法一定要保证关闭文件对象，即调用 close() 方法。open() 函数常用形式是接收两个参数：文件名(file)和模式(mode)。
 ````python
