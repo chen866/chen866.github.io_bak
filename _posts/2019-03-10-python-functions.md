@@ -380,32 +380,7 @@ reduce(function, iterable[, initializer])
 ````
 [more](http://www.runoob.com/python/python-func-reduce.html)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 其他
 
 #### staticmethod
 staticmethod 返回函数的静态方法。该方法不强制要求传递参数，如下声明一个静态方法。
