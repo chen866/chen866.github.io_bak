@@ -8,10 +8,20 @@ lang: zh-Hans
 
 <!--more-->
 
-```
-if(A[j] <= A[i]){
-    A[j] = A[j] + A[i];
-    A[i] = A[j] - A[i];
-    A[j] = A[j] - A[i];
+C#或其他：  
+```C#
+int a = 3, b = 5;
+
+if(a <= b){
+    a = a + b;
+    b = a - b;
+    a = a - b;
 }
+```
+
+Python:  
+```python
+a, b = 3, 5
+
+a, b = b, a
 ```
