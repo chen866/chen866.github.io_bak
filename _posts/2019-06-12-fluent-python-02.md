@@ -3,6 +3,8 @@ layout: article
 title: 《流畅的Python》笔记 第2章 序列构成的数组(一)
 tags:
   - python
+  - 笔记
+  - 《流畅的Python》
 ---
 
 <!--more-->

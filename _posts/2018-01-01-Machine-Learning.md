@@ -70,6 +70,3 @@ print(clf.predict([[150,0]]))
 
 结果输出为
 `[1]`
-
-第二节会讲到
-`How is the tree created?`

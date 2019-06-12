@@ -3,6 +3,8 @@ layout: article
 title: 《流畅的Python》笔记 第1章 Python数据模型
 tags:
   - python
+  - 笔记
+  - 《流畅的Python》
 ---
 
 <!--more-->

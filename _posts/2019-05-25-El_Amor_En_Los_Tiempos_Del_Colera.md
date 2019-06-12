@@ -3,6 +3,7 @@ layout: article
 title: 《霍乱时期的爱情》笔记
 tags:
   - other
+  - 笔记
 ---
 
 <!--more-->
