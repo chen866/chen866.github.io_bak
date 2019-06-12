@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 霍乱时期的爱情 读书笔记
+title: 《霍乱时期的爱情》笔记
 tags:
   - other
 ---

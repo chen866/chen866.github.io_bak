@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 流畅的Python_笔记_第1章
+title: 《流畅的Python》笔记 第1章 Python数据模型
 tags:
   - python
 ---
