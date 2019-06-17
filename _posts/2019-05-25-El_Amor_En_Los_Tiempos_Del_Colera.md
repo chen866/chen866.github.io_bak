@@ -8,10 +8,6 @@ tags:
 
 <!--more-->
 
-来自好朋友送的霍爱：  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2019-05-25-01.png)
-
-
 ### 摘抄
 
 > 这些地方走在众人之前，它们已经有了自己的花冠女神。
@@ -77,3 +73,6 @@ tags:
 #### unit 4
 医生妻子初恋的生活  
 Reading
+
+来自好朋友送的霍爱：  
+![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2019-05-25-01.png)
