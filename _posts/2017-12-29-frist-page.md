@@ -25,7 +25,12 @@ lang: zh-Hans
 ## 4.套用模板
 单单这样是可以显示网页了, 可是毕竟...嗯...有点丑了, 即使作为一个程序员也没那么在意美丑, 可是它的确是太丑了, 我选择用jekyll模板。
 我folk了`kitian616`的[jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)主题。
->稍加改动就ok啦
+> 稍加改动就ok啦  
+
+按照教程装完环境后的快捷启动命令：  
+```
+bundle exec jekyll serve
+```
 
 ## 5.解析域名到**github pages**
 在域名提供商域名管理中做CNAME解析到`username.github.io`
