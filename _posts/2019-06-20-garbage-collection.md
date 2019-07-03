@@ -43,7 +43,7 @@ exename = "预付费水表管理系统.exe";
 2. 程序一直是在前台执行的，`SetProcessWorkingSetSize`方法缓存到硬盘上的数据，很快又会被读出来，还增加了程序的开销
 
 顺便提取了一个工具类：
-```Csharp
+```csharp
 class WPFHelper
 {
     /// <summary>开始压缩内存</summary>
