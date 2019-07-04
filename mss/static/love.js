@@ -128,8 +128,8 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
             var together = new Date();
-            together.setFullYear(2019, 1, 1);            //时间年月日
-            together.setHours(12);                      //小时    
+            together.setFullYear(1997, 6, 17);            //时间年月日
+            together.setHours(13);                      //小时
             together.setMinutes(0);                    //分钟
             together.setSeconds(0);                 //秒前一位
             together.setMilliseconds(0);                //秒第二位
