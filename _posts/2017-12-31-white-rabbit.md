@@ -99,7 +99,7 @@ lang: zh-Hans
 但当那些字组合在一起，传到小兔子耳朵里时。在场的谁也没听懂，只有她在一瞬间放声大哭。
 
 23. 小猪说，那天啊，那天我只是路过来着，小熊硬塞的钱，小老虎说如果我能把糖放回去，冰淇淋机就是我的了。
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2017-12-31-02.jpg)
+![](/assets/images/2017-12-31-02.jpg)
 
 嗯，故事说完了。 别哭，这世界是守恒的。
 

@@ -18,7 +18,7 @@ lang: zh-Hans
 在我电脑上很奇怪三个写入本地的时间都是一样的，在想是不是因为固态或者磁盘缓冲区之类的原因。  
 没什么说的了，上图
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-05-31-1.png)
+![](/assets/images/2018-05-31-1.png)
 
 上代码  
 

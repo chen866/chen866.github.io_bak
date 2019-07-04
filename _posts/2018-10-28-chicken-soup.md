@@ -23,7 +23,7 @@ lang: zh-Hans
 
 APScheduler框架也挺有意思的，比如说它的工作流程：
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-10-28-01.png)
+![](/assets/images/2018-10-28-01.png)
 
 > 参考教程：[花10分钟让你彻底学会Python定时任务框架apscheduler](https://www.jianshu.com/p/919a7627cafe)
 
@@ -66,11 +66,11 @@ kill -9 [PID]
 ## 效果图
 
 钉钉：  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-10-28-02.png)
+![](/assets/images/2018-10-28-02.png)
 
 微信：  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-10-28-04.png)  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-10-28-03.png)
+![](/assets/images/2018-10-28-04.png)  
+![](/assets/images/2018-10-28-03.png)
 
 ## 总结
 

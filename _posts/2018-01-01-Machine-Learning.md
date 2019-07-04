@@ -8,11 +8,11 @@ lang: zh-Hans
 
 <!--more-->
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-01-01.png)
+![](/assets/images/2018-01-01-01.png)
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-01-02.png)
+![](/assets/images/2018-01-01-02.png)
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-01-03.png)
+![](/assets/images/2018-01-01-03.png)
 
 无意中发现一篇16年9月的文章：
 Google有三个.cn网站可以访问了，但它们只面向开发者

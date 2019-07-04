@@ -19,8 +19,8 @@ lang: zh-Hans
 启动方式和硬盘分区格式对应为：UEFI引导模式对应GPT硬盘分区格式、Legacy引导模式对应MBR硬盘分区格式，具体自行->[系统引导模式-百度](https://www.baidu.com/s?wd=%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F)，可以通过**DiskGenius**、傲梅分区等分区软件进行无损转换
 
 2. 把ISO系统镜像用**软碟通**（UltraISO.exe）打开，插入U盘，然后选择“启动”->“写入硬盘映像”，在弹出的窗口中先点击“格式化”格式化U盘，格式化完成后点击“写入”，等待软件将系统镜像刻录到**U盘**上，写入后软件自动为U盘添加启动项  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-09.png)
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-08.png)
+![](/assets/images/2018-01-13-09.png)
+![](/assets/images/2018-01-13-08.png)
 
 3. 重启电脑，进入bios，确认电脑的启动方式为**UEFI启动**(如果支持的话)，然后退出，从U盘启动进入系统安装引导
 
@@ -63,26 +63,26 @@ lang: zh-Hans
 
 ### 2. 复制文件夹
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-01.png)  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-02.png)
+![](/assets/images/2018-01-13-01.png)  
+![](/assets/images/2018-01-13-02.png)
 
 ### 3. 重命名原用户主文件夹
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-03.png)
+![](/assets/images/2018-01-13-03.png)
 
 ### 4. 建立映射
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-04.png)
+![](/assets/images/2018-01-13-04.png)
 
 ### 5. 修改权限
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-05.png)
+![](/assets/images/2018-01-13-05.png)
 
 ### 6. 禁用**Administrator**帐户
 
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-06.png)
+![](/assets/images/2018-01-13-06.png)
 
 ### 7. 删除旧用户主文件夹
 
 重启了下发现没问题就把重命名后的文件夹删除了，完美收工  
-![](https://raw.githubusercontent.com/chen866/chen866.github.io/master/assets/images/2018-01-13-07.png)
+![](/assets/images/2018-01-13-07.png)
