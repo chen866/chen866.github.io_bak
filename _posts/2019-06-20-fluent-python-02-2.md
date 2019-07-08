@@ -69,9 +69,10 @@ bisect 模块包含两个主要函数，bisect和insort ，两个函数都利用
 > bisect(haystack, needle) 在 haystack （干草垛） 里搜索 eedle（针） 的位置，该位置满足的条件是，把 needle 入这个位置之后，haystack 还能保持升序。就是在说这个函数返回的位置前面的值，都小于或等于 needle 值。其中 haystack 必须是一个有序的序列。你可以先用 bisect(haystack, needle) 查找位置 index ，再用haystack.insert(index, needle) 来插入新值。也可用insort 来一步到位，并且后者的速度更快一些。
 
 #### bisect.bisect
-bisect.bisect==bisect.bisect_right
-bisect.bisect_left(a, x[, lo[, hi]]) -> index
-bisect.bisect_left(a, x[, lo[, hi]]) -> index
+bisect.bisect==bisect.bisect_right  
+bisect.bisect_left(a, x[, lo[, hi]]) -> index  
+bisect.bisect_left(a, x[, lo[, hi]]) -> index  
+
 > bisect_left 返回的插入位置是原序列中跟被插入元素相等的元素的位置，也就是新元素会被放置于它相等的元素的前面，而 bisect_right 返回的则是跟它相等的元
 素之后的位置。
 
@@ -87,9 +88,10 @@ print([grade(score) for score in [33, 99, 77, 70, 89, 90, 100]])
 
 #### bisect.insort
 排序很耗时，因此在得到一个有序序列之后，我们最好能够保持它的有序。bisect.insort 就是为了这个而存在的。 
-bisect.insort==bisect.insort_right
-bisect.insort_right(a, x[, lo[, hi]])
-bisect.insort_left(a, x[, lo[, hi]])
+
+bisect.insort==bisect.insort_right  
+bisect.insort_right(a, x[, lo[, hi]])  
+bisect.insort_left(a, x[, lo[, hi]])  
 
 
 
