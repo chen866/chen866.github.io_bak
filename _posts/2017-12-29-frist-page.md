@@ -1,6 +1,6 @@
 ---
 layout: article
-title: hello,github pages
+title: Hello, Github Pages
 tags:
   - code
 lang: zh-Hans
@@ -22,22 +22,24 @@ lang: zh-Hans
 文章里出现的`username`均为自己的`github`用户名
 
 ## 3.在项目目录里添加`index.html`文件,打开`username.github.io`网址进行测试
+测试可以打开，显示`index.html`里面的内容
 ## 4.套用模板
-单单这样是可以显示网页了, 可是毕竟...嗯...有点丑了, 即使作为一个程序员也没那么在意美丑, 可是它的确是太丑了, 我选择用jekyll模板。
+单单这样是可以显示网页了, 可是毕竟...嗯...有点丑了, 即使作为一个程序员也没那么在意美丑, 可是它的确是太丑了, 挑选了一番，我选择用jekyll模板。
 我folk了`kitian616`的[jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)主题。
 > 稍加改动就ok啦  
 
-按照教程装完环境后的快捷启动命令：  
+按照教程装完环境后的快捷启动命令，可以在本地进行预览（需要ruby环境或Docker->[安装开发环境](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start#%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)）：  
 ```
 bundle exec jekyll serve
 ```
 
 ## 5.解析域名到**github pages**
-在域名提供商域名管理中做CNAME解析到`username.github.io`
-或者做A解析到
+如果想使用自己的域名打开Github Pages的话：
+1. 在域名提供商的域名管理中 CNAME解析到`username.github.io`  
+或 A解析到
 `192.30.252.153`
 `192.30.252.154`
-在项目中创建一个名为`CNAME`的文件，里边的内容填你的域名 等同于 在`Settings`中设置自定义域名
-[Troubleshooting custom domains](https://help.github.com/articles/troubleshooting-custom-domains/)
+2. 在项目的根目录下中创建一个名为`CNAME`的文件，里边的内容填你的自定义域名（不需要加`http://`、`https://`、`/`这些）
+    > 官方教程->[Troubleshooting custom domains](https://help.github.com/articles/troubleshooting-custom-domains/)
 
 ## 6.完结撒花
