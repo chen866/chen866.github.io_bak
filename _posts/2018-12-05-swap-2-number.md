@@ -9,7 +9,7 @@ lang: zh-Hans
 <!--more-->
 
 C#或其他：  
-```C#
+```java
 int a = 3, b = 5;
 
 if(a <= b){
