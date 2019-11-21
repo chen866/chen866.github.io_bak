@@ -25,7 +25,7 @@ lang: zh-Hans
 测试可以打开，显示`index.html`里面的内容
 ## 4.套用模板
 单单这样是可以显示网页了, 可是毕竟...嗯...有点丑了, 即使作为一个程序员也没那么在意美丑, 可是它的确是太丑了, 挑选了一番，我选择用jekyll模板。
-我folk了`kitian616`的[jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)主题。
+我fork了`kitian616`的[jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)主题。
 > 稍加改动就ok啦  
 
 按照教程装完环境后的快捷启动命令，可以在本地进行预览（需要ruby环境或Docker->[安装开发环境](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start#%E5%AE%89%E8%A3%85%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)）：  
