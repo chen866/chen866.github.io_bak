@@ -69,7 +69,7 @@ my_dict.setdefault(key, []).append(new_value)
 
 二者的效果是一样的， 只不过后者至少要进行两次键查询——如果键不存在的话， 就是三次， 用 setdefault 只需要一次就可以完成整个操作。
 
-#### 3.4 映射的弹性键查询
+### 3.4 映射的弹性键查询
 defaultdict：处理找不到的键的一个选择
 > collections.defaultdict
 
