@@ -31,7 +31,7 @@ a == b == c == d == e
 ### 3.2 字典推导
 字典推导（dictcomp） 可以从任何以键值对作为元素的可迭代对象中构建出字典。 
 
-字典推导的使用
+字典推导的使用，和列表推导基本一致：
 ```python
 DIAL_CODES = [
 	(86, 'China'),
@@ -55,5 +55,60 @@ print({code: country.upper() for country, code in country_code.items() if code <
 ```
 
 ### 3.3 常见的映射方法
+用setdefault 处理找不到的键：`d.get(k, default)`  
+更新某个键对应的值的时候：`d.setdefault(k, [])`  
+```python
+if key not in my_dict:
+my_dict[key] = []
+my_dict[key].append(new_value)
+```
+等同写法，
+```python
+my_dict.setdefault(key, []).append(new_value)
+```
 
-#### Reading...
+二者的效果是一样的， 只不过后者至少要进行两次键查询——如果键不存在的话， 就是三次， 用 setdefault 只需要一次就可以完成整个操作。
+
+#### 3.4 映射的弹性键查询
+defaultdict：处理找不到的键的一个选择
+> collections.defaultdict
+
+使用方法：
+```python
+from collections import defaultdicr=t
+dd = defaultdict(list) 
+dd[key].append(new_value)
+```
+需要注意的点：
+1. 用来生成默认值的可调用对象存放在名为 default_factory 的实例属性里
+2. 如果在创建 defaultdict 的时候没有指定 default_factory，查询不存在的键会触发 KeyError
+3. defaultdict 里的 default_factory 只会在 \_\_getitem\_\_ 里被调用，即dd[k] 查找不到key会自动创建，而 dd.get(k) 则会返回 None (特殊方法\_\_missing\_\_，该方法适用于所有映射对象)
+
+### 3.5 字典的变种
+
+- collections.OrderedDict  
+在添加键的时候会保持顺序，popitem 方法默认删除并返回字典里的最后一个元素，加入last=False参数后删除并但会第一个元素
+- collections.ChainMap  
+容纳数个不同的映射对象， 然后在进行键查找操作的时候， 这些对象会被当作一个整体被逐个查找， 直到键被找到为止
+- collections.Counter  
+这个映射类型会给键准备一个整数计数器。 每次更新一个键的时候都会增加这个计数器。  
+    ```python
+    >>> ct = collections.Counter('abracadabra')
+    >>> ct
+    Counter({'a': 5, 'b': 2, 'r': 2, 'c': 1, 'd': 1})
+    >>> ct.update('aaaaazzz')
+    >>> ct
+    Counter({'a': 10, 'z': 3, 'b': 2, 'r': 2, 'c': 1, 'd': 1})
+    >>> ct.most_common(2)
+    [('a', 10), ('z', 3)]
+    ```
+- colllections.UserDict  
+子类化UserDict
+
+
+
+
+
+
+
+
