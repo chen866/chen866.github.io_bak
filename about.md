@@ -8,10 +8,4 @@ titles:
 key: page-about
 ---
 
-#### 性别：男
-
-#### 生日：1997
-
-#### MBTI：INTP
-
 ## Become a better version of yourself. :+1:
